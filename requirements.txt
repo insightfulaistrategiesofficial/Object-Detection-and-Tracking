@@ -1,0 +1,8 @@
+torchvision
+torch
+Pillow
+opencv-python
+numpy
+ultralytics
+matplotlib
+pandas
